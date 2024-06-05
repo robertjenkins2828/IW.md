@@ -132,6 +132,29 @@ defeat the thread of a specific adversary and/or return a compromised network to
 ## DODIN operations
 operational actions taken to secure, configure, operate, extend, maintain, and sustain DOD cyberspace and to create and preserve the confidentiality, availability, and integrity of the DODIN.
 
+## treaty law is comprised of (but not limited to)
+- geneva law
+- hague convention
+- developments in treaty law
+- chemical weapons conventions
+
+## the law of armed conflict is made up of customary international law and treaty law:
+customary international law results from the general and consistent practice applied by the states out of a sense of legal obligation.
+
+## cyber national mission force
+conducts cyber operations to defeat cyberspace threats to the DODIN and the nation
+
+## Cyber protection force
+conducts CO for internal defense of the DODIN or other blue cyberspace when ordered
+
+## cyber combat mission force
+conducts CO to support the missions, plans, and priorities of the CCDRs.
+
+## national mission teams 
+prepared to defend the nation in response to a foreign hostile action or an imminent threat in cyberspace.
+
+## 
+
 
 
 
