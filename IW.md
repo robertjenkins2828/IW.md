@@ -1,6 +1,4 @@
 ## IW 
-03072176
-0170931
 
 **Space domain** - 100km above the earth's surface / where atmospheric effects are negligible.
 **cyberspace** - while part of the information environment, is dependent on the physical domains.
@@ -84,6 +82,56 @@ JEMSO actions to exploit, attack, protect, and manage the electromagnetic spectr
 
 ## Key leader engagement KLE
 commanders and other leaderds need to conduct KLE's with key local and regional leaders to affect their attitudes, gain their support, and cultivate them as sources of information.
+
+## electromagnetic spectrum
+EMS is a maneuver space essential for facilitating control within the operational environment (OE) and impacts all portions of the OE and military operations. 
+
+## electromagnetic subdivisions
+- EW attack
+- EW support
+- EW protection
+
+## space operations
+operations impacting or directly utilizing space and ground-based capabilities to enhance the potential of the united states and multinational partners. joint space forces are the space and terrestrial systems, equipment, facilities, organizations, and personnel, or combination thereof, necessary to conduct space operations.
+
+## components of space operations
+- space situational awareness
+- space control
+- positioning, navigation, and timing
+- interlligence, surveillance, recon
+- satellite communications
+
+## space control subcomponents
+- offensive space control
+- defensive space control
+- navigation warefare
+
+## space domain elements 
+- physical dimension
+- network dimension
+- cognitive dimension
+
+## the nature of cyberspace
+cyberspace operations use links and nodes located in the physical domain and perorm logical functions to create effects first in cyberspace and then, as needed, in the physical domain.
+
+## offensive cyber operations
+missions intended to project power in and through gray and red cyberspace.
+
+## D4M
+- deny
+- degrade (a function AMOUNT)
+- disrupt (a function TIME)
+- Destroy
+- manipulate
+
+## Defensive cyber operations
+defeat the thread of a specific adversary and/or return a compromised network to a secure and functional state.
+
+## DODIN operations
+operational actions taken to secure, configure, operate, extend, maintain, and sustain DOD cyberspace and to create and preserve the confidentiality, availability, and integrity of the DODIN.
+
+
+
 
 
 
