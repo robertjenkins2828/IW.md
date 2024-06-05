@@ -1,4 +1,6 @@
 ## IW 
+04462425
+06796769
 
 **Space domain** - 100km above the earth's surface / where atmospheric effects are negligible.
 **cyberspace** - while part of the information environment, is dependent on the physical domains.
