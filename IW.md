@@ -1,6 +1,6 @@
 ## IW 
-04462425
-06796769
+01325488
+03527417
 
 **Space domain** - 100km above the earth's surface / where atmospheric effects are negligible.
 **cyberspace** - while part of the information environment, is dependent on the physical domains.
@@ -153,7 +153,24 @@ conducts CO to support the missions, plans, and priorities of the CCDRs.
 ## national mission teams 
 prepared to defend the nation in response to a foreign hostile action or an imminent threat in cyberspace.
 
-## 
+## vulnerability
+a weakness in an information system, system security procedures, intern controls or implementation that could be exploited by a threat source
+
+## exploitation
+a computer network exploitation enables operations and intelligence collection capabilities ocnducted through the use of computer networks to gather data about a target or adversary automated information systems or networks
+
+## threat source
+the intent and method targeted at the intentional exploitation of a vulnerability or a situation and method that may accidentally exploit a vulnerability.
+
+## initial access 
+the basis for all network exploitation.
+
+## Key terrain
+ - gives you an advantage over your adversary
+ - comprises the resources in cyberspace required to ensure the joint force can complete an assigned mission. (physical or logical node which affords a marked advantage to whomever holds it)
+
+
+
 
 
 
